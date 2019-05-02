@@ -1,0 +1,15 @@
+{
+    "name": "charlieolsson/inl_1",
+    "description": "Inlämning 1 i molnbaserade webbtjänster",
+    "authors": [
+        {
+            "name": "Charlie Olsson",
+            "email": "Charlie-112@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "monolog/monolog": "^1.24"
+    }
+}
