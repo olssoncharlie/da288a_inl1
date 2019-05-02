@@ -1,0 +1,20 @@
+#container {
+    width: 80%;
+    margin: auto;
+}
+
+.read-more {
+    float: right;
+    
+}
+
+#unicorn-image {
+    float:right;
+    max-width: 25%;
+}
+
+#error-text {
+    color: red;
+    font-style: italic;
+    text-decoration: underline;
+}
