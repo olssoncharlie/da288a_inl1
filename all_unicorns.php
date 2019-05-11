@@ -10,7 +10,6 @@
     $unicorns = $_GET["unicorn-id"];
     try {
         $res = $client->request('GET', 'http://unicorns.idioti.se', [
-            'id' => [$id],
             'headers' => ['Accept' => 'application/json']
         ]);
 
